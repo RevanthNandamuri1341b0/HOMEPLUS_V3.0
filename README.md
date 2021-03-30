@@ -51,3 +51,5 @@ Alexa will automatically Detects 4 Switches. Make sure the Alexa application dev
 * [Alexa on Android](https://www.google.com/search?client=ms-android-oppo&sxsrf=ALeKk03yH_F9JaM_WkrfkGDSYUDlh3FKZg%3A1614320272534&ei=kJI4YJWRIJOC4-EPq4WZgAE&q=alexa+app&oq=alexa+app&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQgAEJECMggIABCxAxCRAjICCAAyAggAMgIIADICCAAyAggAMgIIADoECAAQRzoECCMQJzoLCAAQsQMQyQMQkQI6BQgAEJIDOgUIABCxAzoHCAAQhwIQFFDIMVi5N2DGOWgAcAF4AIABnAKIAd8GkgEFMC4yLjKYAQCgAQHIAQjAAQE&sclient=mobile-gws-wiz-serp#)
 * [Alexa on IOS](https://apps.apple.com/us/app/amazon-alexa/id944011620)
 
+## DEMO VIDEO
+[![HOME+ 3.0 DEMO](http://img.youtube.com/vi/7ApxwqBdxYQ/0.jpg)](http://www.youtube.com/watch?v=7ApxwqBdxYQ "HOME+ 3.0")

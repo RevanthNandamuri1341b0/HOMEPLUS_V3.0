@@ -16,7 +16,7 @@ WiFiClient client;
 #define MySSID "" // YOUR WIFI
 #define MyWifiPassword "" // TODO: Change to your Wifi network password
 
-#define HEARTBEAT_INTERVAL 300000 // 5 Minutes
+#define HEARTBEAT_INTERVAL 300000   // 5 Minutes
 
 uint64_t heartbeatTimestamp = 0;
 bool isConnected = false;
@@ -24,8 +24,8 @@ bool isConnected = false;
 void setPowerStateOnServer(String deviceId, String value);
 void setTargetTemperatureOnServer(String deviceId, String value, String scale);
 
-// deviceId is the ID assgined to your smart-home-device in sinric.com dashboard.
-// Copy it from dashboard and paste it below according.
+// TODO:deviceId is the ID assgined to your smart-home-device in sinric.com dashboard.
+// TODO:Copy it from dashboard and paste it below according.
 
 string dID1="";//Device ID1
 string dID2="";//Device ID2
@@ -33,7 +33,7 @@ string dID3="";//Device ID3
 string dID4="";//Device ID4
 
 void turnOn(String deviceId) {
- if (deviceId == dID1) 
+ if (deviceId == dID1)  // Device1 ID
  { 
  Serial.print("Turn on device id: ");
  Serial.println(deviceId);

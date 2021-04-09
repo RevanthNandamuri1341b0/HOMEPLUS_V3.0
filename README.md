@@ -23,7 +23,7 @@ DeviceId is the ID assgined to your smart-home-device in sinric.com dashboard. C
 #### For Switch or Light device types
 ```{"deviceId": xxxx, "action": "setPowerState", value: "ON"}```
 
-Ckeck [developer amazon](https://developer.amazon.com/docs/device-apis/alexa-powercontroller.html) for more information 
+check [developer amazon](https://developer.amazon.com/docs/device-apis/alexa-powercontroller.html) for more information 
 
 If you are going to use a push button to on/off the switch manually,use this function to update the status on the server so it will reflect on Alexa app.
 

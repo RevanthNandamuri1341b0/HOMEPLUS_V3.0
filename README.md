@@ -1,11 +1,11 @@
 # HOME+ v3.0
 
-This is a better verion than HOME+ v2.0.A third party application is used to create a perfect M2M communication.
+This is a better version than HOME+ v2.0.A third party application is used to create a perfect M2M communication.
 
 ## ARDUINO IDE
 
 * [DOWNLOAD IDE](https://www.arduino.cc/en/Main.Software)
-* Preferences--> Aditional boards Manager URLs : [LINK1](https://dl.espressif.com/dl/package_esp32_index.json) | [LINK2](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
+* Preferences--> Additional boards Manager URLs : [LINK1](https://dl.espressif.com/dl/package_esp32_index.json) | [LINK2](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
 * Download boards:-
   * [ESP8266 NodeMCU](https://github.com/esp8266/Arduino)
   * [ESP32NodeMCU](https://github.com/espressif/arduino-esp32)

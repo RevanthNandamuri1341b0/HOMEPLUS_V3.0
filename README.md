@@ -1,6 +1,6 @@
 # HOME+ v3.0
 
-This is a better version than [HOME+ v2.0](https://github.com/RevanthNandamuri1341b0/HOMEPLUS_V2.0). A third party application is used to create a perfect M2M communication.
+This is a better version than [HOME+ v2.0](https://github.com/RevanthNandamuri1341b0/HOMEPLUS_V2.0). A third party application is used to create a perfect M2M communication, Integrating [Amazon ALEXA](https://en.wikipedia.org/wiki/Amazon_Alexa) and [NodeMCU](https://www.nodemcu.com/index_en.html)
 
 ## ARDUINO IDE
 
@@ -53,12 +53,12 @@ Alexa will automatically Detects 4 Switches. Make sure the Alexa application dev
 
 
 
-## Controlled From
+## Controlled via
 
 * [Alexa devices](https://www.amazon.in/s?i=amazon-devices&bbn=12621640031&rh=n%3A12621639031%2Cn%3A12805338031&dc&qid=1614319203&rnid=12621640031&ref=sr_nr_n_1) like Echo dot or Fire stick tv.
-* [Alexa App on Windows PC](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjxqJj28obvAhUDxzgGHWH2DiAQFjAAegQIAxAD&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fp%2Falexa%2F9n12z3cctcnz&usg=AOvVaw1x8YklTHNuEhsD3HnCG8B8)
-* [Alexa on Android](https://www.google.com/search?client=ms-android-oppo&sxsrf=ALeKk03yH_F9JaM_WkrfkGDSYUDlh3FKZg%3A1614320272534&ei=kJI4YJWRIJOC4-EPq4WZgAE&q=alexa+app&oq=alexa+app&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQgAEJECMggIABCxAxCRAjICCAAyAggAMgIIADICCAAyAggAMgIIADoECAAQRzoECCMQJzoLCAAQsQMQyQMQkQI6BQgAEJIDOgUIABCxAzoHCAAQhwIQFFDIMVi5N2DGOWgAcAF4AIABnAKIAd8GkgEFMC4yLjKYAQCgAQHIAQjAAQE&sclient=mobile-gws-wiz-serp#)
-* [Alexa on IOS](https://apps.apple.com/us/app/amazon-alexa/id944011620)
+* [Alexa APP on Windows PC](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjxqJj28obvAhUDxzgGHWH2DiAQFjAAegQIAxAD&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fp%2Falexa%2F9n12z3cctcnz&usg=AOvVaw1x8YklTHNuEhsD3HnCG8B8)
+* [Alexa APP on Android](https://www.google.com/search?client=ms-android-oppo&sxsrf=ALeKk03yH_F9JaM_WkrfkGDSYUDlh3FKZg%3A1614320272534&ei=kJI4YJWRIJOC4-EPq4WZgAE&q=alexa+app&oq=alexa+app&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQgAEJECMggIABCxAxCRAjICCAAyAggAMgIIADICCAAyAggAMgIIADoECAAQRzoECCMQJzoLCAAQsQMQyQMQkQI6BQgAEJIDOgUIABCxAzoHCAAQhwIQFFDIMVi5N2DGOWgAcAF4AIABnAKIAd8GkgEFMC4yLjKYAQCgAQHIAQjAAQE&sclient=mobile-gws-wiz-serp#)
+* [Alexa APP on IOS](https://apps.apple.com/us/app/amazon-alexa/id944011620)
 
 ## DEMO VIDEO
 

@@ -1,6 +1,6 @@
 # HOME+ v3.0
 
-This is a better version than HOME+ v2.0.A third party application is used to create a perfect M2M communication.
+This is a better version than [HOME+ v2.0](https://github.com/RevanthNandamuri1341b0/HOMEPLUS_V2.0). A third party application is used to create a perfect M2M communication.
 
 ## ARDUINO IDE
 

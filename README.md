@@ -23,6 +23,7 @@ Register or Login from
 
 * [Sinric.com](https://sinric.com/login?returnUrl=%2F)
 * [Android](https://play.google.com/store/apps/details?id=com.sinric)
+
 DeviceId is the ID assgined to your smart-home-device in sinric.com dashboard. Copy it from dashboard and paste it inside the code
 
 ### For Switch or Light device types
